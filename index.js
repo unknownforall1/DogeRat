@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = 'your token here'
-const id = 'chat id here'
+const token = '5990301685:AAF54b68J3EAao0lNXH6FnpTBpu2JtuRjs8'
+const id = '5792964753'
 const address = 'https://www.google.com'
 
 const app = express();
